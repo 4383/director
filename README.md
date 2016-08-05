@@ -1,5 +1,11 @@
 # director
-Security footprint scanner torified and dockerized
+Security footprint scanner torified and dockerized.
+
+Make anonymized security footprint inside docker container.
+
+Security scanner run under the tor network inside a standalone docker container.
+
+Results in your shell output.
 
 ## Credits
 Author: [Hervé Beraud (4383)](https://github.com/4383)

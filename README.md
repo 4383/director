@@ -34,14 +34,14 @@ Use the `-e` option for define environment variables to pass to director.
 
 Use the bash syntax for setting an environment variable.
 
-#### TARGET
+#### The TARGET parameter
 The target to scan.
 
 Just set this with a [valid domain name](https://tools.ietf.org/html/rfc1035) like www.google.com
 
 Syntax example : `-e "TARGET=www.google.com"`
 
-#### DIRBPROTO
+#### The DIRBPROTO parameter
 The HTTP protocole to use with dird.
 
 By default is set with `http://` but you can set this with `https://`
